@@ -6,7 +6,7 @@ Created by:
 		GitHub: https://github.com/starxfighter
 
 	Shahan Krakirian
-		Linked-In: https://www.linkedin.com/in/shahan-krakirian-40427789/
+		Linked-In: https://www.linkedin.com/in/shahan-krakirian
 		GitHub: https://github.com/ShahanKrakirian
 
 Doctor Dojo is a minimalistic electronic medical record that was designed to be used in a one physician medical office. The application has the basic functionality of 
