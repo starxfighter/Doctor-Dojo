@@ -1,0 +1,13 @@
+body{
+	text-align:center;
+	font-family: "futura";
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url('https://image.freepik.com/free-photo/doctor-s-stethoscope-with-blue-background_23-2147652363.jpg');
+}
+a{
+	color:black;
+}
+.lower{
+	margin-top:30px;
+}
